@@ -1,0 +1,6 @@
+# https://tea.xyz/sudrpc
+---
+version: 1.0.0
+codeOwners:
+  - '0x02CBF1aF418bb5d1077AA6725Fd7FEa71cDf3Dec'
+quorum: 1
